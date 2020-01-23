@@ -1,0 +1,5 @@
+name: File D'attente
+type: module
+description: " Module File D'attente Drupal 8"
+package: custom
+core: 8.x

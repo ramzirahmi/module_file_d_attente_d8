@@ -1,0 +1,7 @@
+file_attente.form:
+      path: '/file_d_attente'
+      defaults:
+         _title: 'file attente'
+         _form: '\Drupal\file_attente\Form\FormUnpublishNode'
+      requirements:
+         _permission: 'access content'
